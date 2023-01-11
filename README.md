@@ -1,1 +1,1 @@
-# project
+# m31-globular-star-dataset
